@@ -1,17 +1,17 @@
-## Computer Science
+# Computer Science
 
-#### What?
+## What?
 
 It's basically bunch of cool stuff people study to make computers look smart.
 
-#### why?
+## why?
 
 Everyone had their own why. But I will tell you about mine
 
 - computer science is super cool!!!
 - It's so fun and they even pay you for having fun🤩 
 
-#### How and where?
+## How and where?
 
 1. First thing is to meet them, have a look
 2. Learn their language(which is hard), so we have translators(**Programming languages**)
