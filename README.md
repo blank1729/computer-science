@@ -14,7 +14,7 @@ Everyone had their own why. But I will tell you about mine
 ## How and where?
 
 1. First thing is to meet them, have a look
-2. Learn their language(which is hard), so we have translators(**Programming languages**)
+2. Learn their language. which is just bunch of 1 and 0s, so we usually don't do it. We use translators(compilers) instead, but they speak different languages, we call them programming languages. There are a lot of them C, golang, Rust,...
 3. There are lots of things computers can do(Building websites, understand human language,...). So choose one of them and explore
 4. Stand on the shoulder of Giants. You don't have to start from zero. There is a ton of stuff people have built called software. You can use those and build even more amazing stuff. [Github](https://github.com) is one such places where people share their software.
 
